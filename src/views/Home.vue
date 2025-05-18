@@ -39,7 +39,7 @@
                             </div>
                         </TransitionGroup>
                         <div v-else class="default-message">
-                            Hello how can i assis you today?
+                            Hello how can i assist you today?
                         </div>
                     </div>
 
