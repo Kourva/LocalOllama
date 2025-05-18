@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "Vue.volar",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode"
+  ]
+}
